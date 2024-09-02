@@ -1,0 +1,5 @@
+﻿StudentId;FullName;EmailAddress;PhoneNumber;SelectedCourses;Message;ContactedDate;
+55A786B7-9643-4DD8-8C9E-79D77D43CD1B;Atif Zaman;atifzaman88010@gmail.com;+46737609648;Data Science;NULL;2024-08-28 17:43:05.000
+4A20EDB8-A621-4D5F-BCDC-4013C70D741A;Atif Zaman;atifzaman88010@gmail.com;+46737609648;;This is test send message.;09/02/2024 03:14:32
+1B6591A3-53F5-4534-BB05-3A1858C61F17;John;john@gmail.com;+132866853;;This is test message;09/02/2024 03:22:25
+7FF35965-88FA-44AD-BE2D-254C4703274D;Mac;mac@example.com;+46879605478;;Interested;09/02/2024 03:43:15
